@@ -1,5 +1,4 @@
-# Changelog v1.0
+# Changelog v1.0.1
 
-## Changes
-- Disabled crafting table recipe for copper, iron, golden & diamond tools, weapons and armor.
-  - Upgrade Templates are now required to craft higher tier tools, weapons & armor
+## Fixes
+- Mod file has correct name now
